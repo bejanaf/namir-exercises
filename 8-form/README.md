@@ -1,10 +1,10 @@
 # Exercise 8: Form
 
-Add an event listener to the submit button of the form. Get the data out of the different input elements, put it an object and push it into the `data` array that's already defined for you in the exercise.
+Add an event listener to the form (`submit` event). Get the data out of the different input elements, put it an object and push it into the `data` array that's already defined for you in the exercise.
 
 After every submit, reset the form so all the inputs are empty again.
 
-Important!: Make sure you cancel the default browser behaviour of the form
+Important!: Make sure you cancel the default browser behaviour of the form submit.
 
 ## Resources
 
